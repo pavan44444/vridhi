@@ -58,7 +58,7 @@ const BANNERS = [
 
 // ---- Edit the founder details here ----
 const FOUNDER = {
-  name: "Founder Name",
+  name: "Amogh",
   role: "Founder & Principal Designer",
   img: "/images/founder.png", // put founder.png inside /public/images/
   quote: "A home should feel like it was always yours. We simply help it remember.",
